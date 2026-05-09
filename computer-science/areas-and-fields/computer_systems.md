@@ -1,16 +1,28 @@
 # Computer Science: Computer Systems
-- Operating systems (OS)
-- Linux
+## Table of Contents
+- [Concepts](#concepts)
+- [Resources](#resources)
+- [Websites](#websites)
+
+## Concepts
+| **Category** | **Topics** |
+|---|---|
+| Linux |
+| Operating systems (OS) |
 
 ## Resources
-- [25 Basic Linux Commands](https://www.geeksforgeeks.org/linux-unix/basic-linux-commands/)
-- [Good Guide to Learn Linux from Zero](https://www.reddit.com/r/linuxquestions/comments/125dn50/a_good_guide_to_learn_linux_from_zero/)
-- [Linux](https://labex.io/linuxjourney)
-- [Linux Command Lines for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
-- [Linux Commands](https://hpc.wsu.edu/users-guide/unixlinux-commands/)
-- [Write Your Own Operating System](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
+| **Resource** | **Notes** |
+|---|---|
+| [25 Basic Linux Commands](https://www.geeksforgeeks.org/linux-unix/basic-linux-commands/) |
+| [Good Guide to Learn Linux from Zero](https://www.reddit.com/r/linuxquestions/comments/125dn50/a_good_guide_to_learn_linux_from_zero/) |
+| [Linux](https://labex.io/linuxjourney) |
+| [Linux Command Lines for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners) |
+| [Linux Commands](https://hpc.wsu.edu/users-guide/unixlinux-commands/) |
+| [Write Your Own Operating System](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw) |
 
 ## Websites
-- [LabEx](https://labex.io/)
-- [Linux Journey](https://linuxjourney.org/)
-- [Linux Path](https://www.linux-path.com/en)
+| **Website** | **Link** | **Notes** |
+|---|---|---|
+| LabEx | [labex.io](https://labex.io/) |
+| Linux Journey | [linuxjourney.org](https://linuxjourney.org/) |
+| Linux Path | [linux-path.com/en](https://www.linux-path.com/en) |

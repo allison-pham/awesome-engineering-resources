@@ -5,11 +5,11 @@
 - [Websites](#websites)
 
 ## Concepts
-| Category | Topics |
+| **Category** | **Topics** |
 |---|---|
-| Fundamentals | • Variables and Assignments<br>• Branches<br>• Loops<br>• Functions<br>• Vectors<br>• Streams |
-| Object-Oriented<br>Programming (OOP) | • Objects and Classes<br>• Inheritance<br>• Pointers<br>• Arrays<br>• Dynamic Memory<br>• Encapsulation<br>• Abstraction<br>• Polymorphism |
-| Other | • Templates<br>• Exceptions<br>• Containers<br>• Stack vs. Heap<br>• References<br>• Allocation and Deallocation |
+| Fundamentals | • Variables and assignments<br>• Branches<br>• Loops<br>• Functions<br>• Vectors<br>• Streams |
+| Object-Oriented<br>Programming (OOP) | • Objects and classes<br>• Inheritance<br>• Pointers<br>• Arrays<br>• Dynamic memory<br>• Encapsulation<br>• Abstraction<br>• Polymorphism |
+| Other | • Templates<br>• Exceptions<br>• Containers<br>• Stack vs. heap<br>• References<br>• Allocation and deallocation |
 
 ## Resources
 | **Resource** | **Notes** |

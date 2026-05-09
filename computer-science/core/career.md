@@ -1,2 +1,16 @@
 ## Computer Science: Career
-- [Levels.fyi](https://www.levels.fyi/)
+## Table of Contents
+- [Concepts](#concepts)
+- [Resources](#resources)
+- [Websites](#websites)
+
+## Concepts
+- N/A
+
+## Resources
+- N/A
+
+## Websites
+| **Website** | **Link** | **Notes** |
+|---|---|---|
+| Levels.fyi | [levels.fyi](https://www.levels.fyi/) |

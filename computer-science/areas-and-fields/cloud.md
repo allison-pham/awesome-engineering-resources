@@ -1,6 +1,18 @@
 # Computer Science: Cloud
+## Table of Contents
+- [Concepts](#concepts)
+- [Resources](#resources)
+- [Websites](#websites)
+
+## Concepts
+- N/A
+
 ## Resources
-- [AWS Educate](https://aws.amazon.com/education/awseducate/)
+| **Resource** | **Notes** |
+|---|---|
+| [AWS Educate](https://aws.amazon.com/education/awseducate/) |
 
 ## Websites
-- [AWS Skill Builder](https://skillbuilder.aws/)
+| **Website** | **Notes** |
+|---|---|
+| [AWS Skill Builder](https://skillbuilder.aws/) |

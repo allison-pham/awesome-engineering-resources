@@ -1,11 +1,23 @@
 # Product Design
+## Table of Contents
+- [Concepts](#concepts)
+- [Resources](#resources)
+- [Websites](#websites)
+
+## Concepts
+- N/A
+
 ## Resources
-- [Wireframing in UI/UX Design](https://medium.com/dtalks/what-is-ui-ux-wireframe-designerrs-46dac9c8a153)
+| **Resource** | **Notes** |
+|---|---|
+| [Wireframing in UI/UX Design](https://medium.com/dtalks/what-is-ui-ux-wireframe-designerrs-46dac9c8a153) |
 
 ## Websites
-- [Cognitive UX](https://cognitive-ux.com/)
-- [Design+Code](https://designcode.io/)
-- [Dribbble](https://dribbble.com/)
-- [Growth Design](https://growth.design/)
-- [Laws of UX](https://lawsofux.com/)
-- [Mobbin](https://mobbin.com/)
+| **Website** | **Link** | **Notes** |
+|---|---|---|
+| Cognitive UX | [cognitive-ux.com](https://cognitive-ux.com/) |
+| Design+Code | [designcode.io](https://designcode.io/) |
+| Dribbble | [dribbble.com](https://dribbble.com/) |
+| Growth Design | [growth.design](https://growth.design/) |
+| Laws of UX | [lawsofux.com](https://lawsofux.com/) |
+| Mobbin | [mobbin.com](https://mobbin.com/) |
