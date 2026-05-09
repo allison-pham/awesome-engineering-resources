@@ -14,10 +14,10 @@
 | Algorithms | • Algorithm analysis<br>• Searching algorithms<br>• Sorting algorithms<br>• Recrusion<br>• Big O notation<br>• Optimization |
 
 ## Resources
-| **Resource** | **Notes** |
-|---|---|
+| **Resource** | **Type** | **Level** | **Vital / Important** | **Notes** |
+|---|---|---|---|---|
 | [Binary Search Algorithms: Overview, When to Use, and Examples](https://www.simplilearn.com/binary-search-algorithm-article) |
-| [Data Structure and Algorithm Analysis in C++](https://github.com/GunterMueller/Books-3/blob/master/Data%20Structure%20and%20Algorithm%20Analysis%20in%20C%2B%2B%204th%20ed.pdf) |
+| [Data Structure and Algorithm Analysis in C++ Textbook](https://github.com/GunterMueller/Books-3/blob/master/Data%20Structure%20and%20Algorithm%20Analysis%20in%20C%2B%2B%204th%20ed.pdf) |
 
 ## Websites
 - N/A

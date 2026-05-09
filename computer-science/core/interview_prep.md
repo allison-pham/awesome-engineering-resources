@@ -8,8 +8,8 @@
 - N/A
 
 ## Resources
-| **Resource** | **Notes** |
-|---|---|
+| **Resource** | **Type** | **Level** | **Vital / Important** | **Notes** |
+|---|---|---|---|---|
 | [10+ Top LeetCode Patterns to Ace FAANG Coding Interviews](https://www.educative.io/blog/coding-interview-leetcode-patterns) |
 | [14 Patterns to Ace Any Coding Interview Question](https://grokkingtechinterview.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) |
 | [15 Coding Patterns to Crack Tech Interviews](https://dev.to/somadevtoo/coding-interviews-was-hard-until-i-learned-these-patterns-2ji7) |
@@ -17,9 +17,10 @@
 | [25 Fundamental System Design Concepts You Must Know Before Your Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals) |
 
 ## Websites
-| **Website** | **Link** | **Notes** |
-|---|---|---|
+| **Website** | **Link** | **Vital / Important** | **Notes** |
+|---|---|---|---|
 | AlgoMaster | [algomaster.io](https://algomaster.io/) |
+| Codeforces | [codeforces.com](https://codeforces.com/) |
 | LeetCode | [leetcode.com](https://leetcode.com/) + [leetcode.com/problemset](https://leetcode.com/problemset/) | Library, quest, explore, study plan, lists, etc. |
 | NeetCode | [neetcode.io](https://neetcode.io/) |
 | USACO Guide | [usaco.guide](https://usaco.guide/) |

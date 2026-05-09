@@ -11,6 +11,6 @@
 - N/A
 
 ## Websites
-| **Website** | **Link** | **Notes** |
-|---|---|---|
+| **Website** | **Link** | **Vital / Important** | **Notes** |
+|---|---|---|---|
 | Levels.fyi | [levels.fyi](https://www.levels.fyi/) |

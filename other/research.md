@@ -1,4 +1,4 @@
-# Computer Science: Cloud
+# Research
 ## Table of Contents
 - [Concepts](#concepts)
 - [Resources](#resources)
@@ -10,9 +10,9 @@
 ## Resources
 | **Resource** | **Type** | **Level** | **Vital / Important** | **Notes** |
 |---|---|---|---|---|
-| [AWS Educate](https://aws.amazon.com/education/awseducate/) |
+| [A Beginner's Guide to Undergrad CS Research](https://nishanthjkumar.com/blog/2021/A-Beginner%27s-Guide-to-Undergrad-CS-Research/)
 
 ## Websites
 | **Website** | **Link** | **Vital / Important** | **Notes** |
 |---|---|---|---|
-| [AWS Skill Builder](https://skillbuilder.aws/) |
+| ACM Digital Library | [dl.acm.org](https://dl.acm.org/) |

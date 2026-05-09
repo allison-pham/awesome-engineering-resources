@@ -1,4 +1,4 @@
-# Computer Science: Cloud
+# Computer Science: DevOps
 ## Table of Contents
 - [Concepts](#concepts)
 - [Resources](#resources)
@@ -10,9 +10,7 @@
 ## Resources
 | **Resource** | **Type** | **Level** | **Vital / Important** | **Notes** |
 |---|---|---|---|---|
-| [AWS Educate](https://aws.amazon.com/education/awseducate/) |
+| [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) |
 
 ## Websites
-| **Website** | **Link** | **Vital / Important** | **Notes** |
-|---|---|---|---|
-| [AWS Skill Builder](https://skillbuilder.aws/) |
+- N/A

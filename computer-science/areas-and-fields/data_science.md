@@ -1,4 +1,4 @@
-# Computer Science: Databases
+# Computer Science: Data Science
 ## Table of Contents
 - [Concepts](#concepts)
 - [Resources](#resources)
@@ -12,6 +12,5 @@
 
 ## Websites
 | **Website** | **Link** | **Vital / Important** | **Notes** |
-|---|---|---|
-| DB Fiddle | [db-fiddle.com](https://www.db-fiddle.com/) |
-| SQLBolt | [sqlbolt.com](https://sqlbolt.com/) |
+|---|---|---|---|
+| Build your data portfolio | [datascienceportfol.io](https://www.datascienceportfol.io/) |
