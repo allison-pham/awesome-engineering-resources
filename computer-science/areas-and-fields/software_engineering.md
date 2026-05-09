@@ -39,8 +39,8 @@
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) + [2019 version](https://missing.csail.mit.edu/2019) |
 | [UML (Unified Modeling Language) Diagrams](https://www.cise.ufl.edu/~pjd/courses/3502/references/UMLInternalClassView.pdf) |
 | [What is an API?](https://aws.amazon.com/what-is/api) |
-| [What is ) |trol and What Are Its Benefits?](https://www.simplilearn.com/tutorials/devops-tutorial/version-control) |
-| [What is ) |trol?](https://about.gitlab.com/topics/version-control) |
+| [What is Version Control and What Are Its Benefits?](https://www.simplilearn.com/tutorials/devops-tutorial/version-control) |
+| [What is version control?](https://about.gitlab.com/topics/version-control) |
 
 ## Websites
 | **Website** | **Link** | **Vital / Important** | **Notes** |
