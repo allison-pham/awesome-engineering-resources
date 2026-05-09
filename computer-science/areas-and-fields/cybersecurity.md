@@ -10,7 +10,8 @@
 ## Resources
 | **Resource** | **Type** | **Level** | **Vital / Important** | **Notes** |
 |---|---|---|---|---|
-| [Capture the Flag (CTF)](https://www.hoppersroppers.org/ctf/) |
+| [15 Final Year Projects for Computer Science Students](https://www.simplilearn.com/final-year-computer-science-project-ideas-article) |
+| [Capture the Flag (CTF)](https://www.hoppersroppers.org/ctf) |
 
 ## Websites
 | **Website** | **Link** | **Vital / Important** | **Notes** |

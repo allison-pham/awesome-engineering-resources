@@ -8,9 +8,11 @@
 - N/A
 
 ## Resources
-- N/A
+| **Resource** | **Type** | **Level** | **Vital / Important** | **Notes** |
+|---|---|---|---|---|
+| [Career Resources](https://www.google.com/about/careers/applications/buildyourfuture/resources) |
 
 ## Websites
 | **Website** | **Link** | **Vital / Important** | **Notes** |
 |---|---|---|---|
-| Levels.fyi | [levels.fyi](https://www.levels.fyi/) |
+| Levels.fyi | [levels.fyi](https://www.levels.fyi) |

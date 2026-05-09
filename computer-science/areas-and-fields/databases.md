@@ -13,5 +13,5 @@
 ## Websites
 | **Website** | **Link** | **Vital / Important** | **Notes** |
 |---|---|---|
-| DB Fiddle | [db-fiddle.com](https://www.db-fiddle.com/) |
-| SQLBolt | [sqlbolt.com](https://sqlbolt.com/) |
+| DB Fiddle | [db-fiddle.com](https://www.db-fiddle.com) |
+| SQLBolt | [sqlbolt.com](https://sqlbolt.com) |

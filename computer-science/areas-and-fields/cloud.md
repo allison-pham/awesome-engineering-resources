@@ -10,9 +10,9 @@
 ## Resources
 | **Resource** | **Type** | **Level** | **Vital / Important** | **Notes** |
 |---|---|---|---|---|
-| [AWS Educate](https://aws.amazon.com/education/awseducate/) |
+| [AWS Educate](https://aws.amazon.com/education/awseducate) |
 
 ## Websites
 | **Website** | **Link** | **Vital / Important** | **Notes** |
 |---|---|---|---|
-| [AWS Skill Builder](https://skillbuilder.aws/) |
+| [AWS Skill Builder](https://skillbuilder.aws) |
